@@ -49,3 +49,7 @@ training, and performance evaluation using
 Python. It provides a simple yet effective example
 of how machine learning techniques can be used to
 solve real-world problems such as spam detection.
+
+OUTPUT :
+
+<img width="514" height="260" alt="Image" src="https://github.com/user-attachments/assets/bf894697-beeb-4a24-bdc5-190516b88669" />
