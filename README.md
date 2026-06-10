@@ -52,4 +52,8 @@ solve real-world problems such as spam detection.
 
 OUTPUT :
 
+<img width="863" height="601" alt="Image" src="https://github.com/user-attachments/assets/f948af9c-480b-42f3-a4af-e877a4b686aa" />
+
+
 <img width="514" height="260" alt="Image" src="https://github.com/user-attachments/assets/bf894697-beeb-4a24-bdc5-190516b88669" />
+
